@@ -1,0 +1,7 @@
+{
+  "name": "Voice Dub",
+  "description": "A powerful text-to-speech application that allows users to customize voice parameters and generate high-quality audio using the Gemini TTS model.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
